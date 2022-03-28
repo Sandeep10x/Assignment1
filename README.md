@@ -7,6 +7,6 @@ Assignment for practicing git commands
 3.**To add the files**           ----------->  git add . or git add `file name` <br>
 4.**To commit the changes**      ----------->  git commit -m `"Commit message in quotes"` <br>
 5.**To check the status**        ----------->  git status
-6.**Push your code to the git repository** ->  git push `remote` `branch`  or git push
+6.**Push your code to the git repository** ->  git push `remote` `branch`  or git push <br>
 7.**Create a pull request**
 
