@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment-1
 Assignment for practicing git commands
 
 ### Common git commands
