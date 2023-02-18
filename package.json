@@ -1,0 +1,26 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "GIT Assignment 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhitehra001/Assignment1.git"
+  },
+  "author": "Abhijeet Tehra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhitehra001/Assignment1/issues"
+  },
+  "homepage": "https://github.com/abhitehra001/Assignment1#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.2",
+    "nodemon": "^2.0.20"
+  }
+}
